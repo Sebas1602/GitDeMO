@@ -10,5 +10,20 @@ package Model;
  */
 public class Person {
     private int id;
-    private string name;
+    private String name;
+    private String lastname;
+    
+    public void setName(String name.String lastname) {
+        this.name = name;
+    }
+
+    public String getLastname() {
+        return lastname;
+    }
+
+    public void setLastname(String lastname) {
+        this.lastname = lastname;
+    }
+    
+    
 }
