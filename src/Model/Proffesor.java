@@ -8,7 +8,6 @@ package Model;
  *
  * @author invitado
  */
-public class Person {
-    private int id;
-    private string name;
+public class Proffesor {
+    
 }
